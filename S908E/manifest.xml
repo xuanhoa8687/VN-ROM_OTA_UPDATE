@@ -3,11 +3,10 @@
   <RomName>VN-ROM</RomName>
   <VersionName>20240501 Update</VersionName>
   <BuildNumber type="integer">20240501</BuildNumber>
-  <DownloadURL>https://downloads.simon1511.de/s/YsQQoS7FHfsKKPo/download/OTA-20240201-a52q.zip</DownloadURL>
+  <DownloadURL>https://5qp2mj-my.sharepoint.com/personal/xuanhoa86_5qp2mj_onmicrosoft_com/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fxuanhoa86%5F5qp2mj%5Fonmicrosoft%5Fcom%2FDocuments%2FVN%2DROM%2FVN%2DMods%20for%20S22x%20Snap%20v24%2DTWRP%20or%20Magisk%2Ezip</DownloadURL>
   <AndroidVer>14</AndroidVer>
-  <OneUIVer>6</OneUIVer>
-  <CheckMD5>f6d1778f4db90ec921dd6925e41243f0</CheckMD5>
-  <FileSize type="long">3181685724</FileSize>
+  <OneUIVer>6.1</OneUIVer>
+  <FileSize type="long">287229226</FileSize>
   <ChangelogHeader>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/ic_launcher.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/changelog.txt</ChangelogURL>
 </OnOTAInfo>
