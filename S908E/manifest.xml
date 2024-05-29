@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
-  <RomName>NcX ROM</RomName>
-  <VersionName>20240201 Update</VersionName>
-  <BuildNumber type="integer">20240201</BuildNumber>
+  <RomName>VN-ROM</RomName>
+  <VersionName>V16.1 Update</VersionName>
+  <BuildNumber type="integer">20240501</BuildNumber>
   <DownloadURL>https://downloads.simon1511.de/s/YsQQoS7FHfsKKPo/download/OTA-20240201-a52q.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6</OneUIVer>
