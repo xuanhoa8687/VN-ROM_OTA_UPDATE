@@ -1,0 +1,28 @@
+# Before: ui_print("  Hi! ");
+# Now:    ui_print " Hi! "
+#-----------Dynamic Installer Configs-----------#
+#The #MAGISK tag is required, dont remove it
+#MAGISK
+setdefault magisk_support off
+setdefault ensure_root off
+setdefault import_addons off
+setdefault apex_mount on
+setdefault extraction_speed default
+setdefault permissions "0:0:0755:0644"
+setdefault devices off
+#-----------------------------------------------#
+#Your script starts here:
+#Print
+ui_print " "
+ui_print " ___________________________________"
+ui_print "      20240201 update - A52 4G      "
+ui_print " ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯"
+#Get device info
+ui_print " Beginning update... "
+ui_print " Unmounting all partitions... "
+umount_all
+ui_print " Done... "
+ui_print " Installing super image... "
+update_zip -xz super.img.xz $(find_block super)
+ui_print " Done... "
+ui_print " OTA Complete... "

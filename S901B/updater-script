@@ -1,0 +1,39 @@
+# Before: ui_print("  Hi! ");
+# Now:    ui_print " Hi! "
+#-----------Dynamic Installer Configs-----------#
+#The #MAGISK tag is required, dont remove it
+#MAGISK
+setdefault magisk_support off
+setdefault ensure_root off
+setdefault import_addons off
+setdefault apex_mount on
+setdefault extraction_speed default
+setdefault permissions "0:0:0755:0644"
+setdefault devices off
+#-----------------------------------------------#
+#Your script starts here:
+#Print
+ui_print " "
+ui_print " ___________________________________"
+ui_print "       20240401 update - A52s       "
+ui_print " ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯"
+ui_print " The following update uses bootloader bit U7/S7 "
+ui_print " Meaning that it may brick your device if you do not update "
+ui_print " Please download the latest BL_, CP_ and patched vbmeta files "
+ui_print " And have Odin and a PC ready to flash them "
+ui_print " Press vol + if you understand this requirement and are ready to update "
+ui_print " Press vol - if you want to cancel and try to update later "
+if $yes; then
+    ui_print " Beginning update... "
+    ui_print " Unmounting all partitions... "
+    umount_all
+    ui_print " Done... "
+    ui_print " Installing super image... "
+    update_zip -xz super.img.xz $(find_block super)
+    ui_print " Done... "
+    ui_print " Done... "
+    ui_print " OTA Complete... "
+else
+    ui_print " Update posponed... "
+    end " Closing... "
+fi
