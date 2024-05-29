@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
-  <RomName>NcX ROM</RomName>
-  <VersionName>20240201 Update</VersionName>
+  <RomName>VN-ROM</RomName>
+  <VersionName>v16.1 Update</VersionName>
   <BuildNumber type="integer">20240201</BuildNumber>
   <DownloadURL>https://downloads.simon1511.de/s/YsQQoS7FHfsKKPo/download/OTA-20240201-a52q.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
-  <OneUIVer>6</OneUIVer>
+  <OneUIVer>6.1</OneUIVer>
   <CheckMD5>f6d1778f4db90ec921dd6925e41243f0</CheckMD5>
   <FileSize type="long">3181685724</FileSize>
   <WebsiteURL>https://forum.xda-developers.com/apps/magisk/dev-magisk-canary-channel-bleeding-edge-t3839337</WebsiteURL>
