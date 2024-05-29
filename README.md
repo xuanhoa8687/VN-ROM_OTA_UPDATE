@@ -1,4 +1,4 @@
-![OnUpdateLogo](https://github.com/xuanhoa8687/VN-ROM_OTA_UPDATE/blob/main/ic_launcher.png)
+![OnUpdateLogo](https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/ic_launcher.png)
 
 =============
 
