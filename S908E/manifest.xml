@@ -3,7 +3,7 @@
   <RomName>VN-ROM</RomName>
   <VersionName>20240501 Update</VersionName>
   <BuildNumber type="integer">20240501</BuildNumber>
-  <DownloadURL>https://drive.usercontent.google.com/download?id=1QWq8kVHzPx-LrxkKYgCj-VXXfgmkFsGp&export=download&authuser=0&confirm=t&uuid=952f36e5-e2b7-4879-8c86-af98020448fc&at=APZUnTX2X3DLOhjtq0koLenuUK1Z%3A1716979106720</DownloadURL>
+  <DownloadURL>https://objects.githubusercontent.com/github-production-release-asset-2e65be/807423223/c31fc10a-b5f6-4198-af8a-091a35fbb4dd?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240529%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240529T104029Z&X-Amz-Expires=300&X-Amz-Signature=77c573b25b5528548e09b8773338a77bb0e5386097428e2298631cc53412ddf2&X-Amz-SignedHeaders=host&actor_id=60789352&key_id=0&repo_id=807423223&response-content-disposition=attachment%3B%20filename%3DFix.s21.zip&response-content-type=application%2Foctet-stream</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.1</OneUIVer>
   <FileSize type="long">287229226</FileSize>
