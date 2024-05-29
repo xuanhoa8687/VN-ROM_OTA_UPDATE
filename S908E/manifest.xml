@@ -3,10 +3,10 @@
   <RomName>VN-ROM</RomName>
   <VersionName>20240501 Update</VersionName>
   <BuildNumber type="integer">20240501</BuildNumber>
-  <DownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/Fix%20s21.zip</DownloadURL>
+  <DownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/test.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.1</OneUIVer>
-  <CheckMD5>7122357c5f7eab5ed309948172f17e56</CheckMD5>
+  <CheckMD5>f7b9207bfeaa8c23d23f0d6e2a508902</CheckMD5>
   <FileSize type="long">8133005</FileSize>
   <WebsiteURL>https://sites.google.com/view/vnromgalaxy/trang-ch%E1%BB%A7</WebsiteURL>
   <ChangelogHeader>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/ic_launcher.png</ChangelogHeader>
