@@ -1,31 +1,231 @@
-Welcome to the NcX changelog
+# ☆☆☆ VN-ROM ☆☆☆
+Re-Custom your Galaxy!
 
-Changelog 20240101
-• February security update
-• Fix window corners in recent apps
-• Add power button location for small lockscreen effect
+# OneUI 6.1
+This ROM is made for
 
++ S24x S92xB models !
++ S23x S91xB models !
++ Fold 5 F946B models !
++ Fold 4 F936B models !
++ S22x Snap and Exynos models !
++ S21 5G (SM-G991B), S21+ 5G (SM-G996B), S21 Ultra 5G (SM-G998B) models !
 
-Changelog 20240101
-• January security update
-• Add CSC features
-• Confirm PIN without taping OK using 4 digits
-• Change adb secure to 0
-• Custom NcX Wallpapers
-• Unlimited time trials on paid Samsung themes
+# OneUI 5.1
+This ROM is made for
++ S20 SM-G980F 5G (SM-G981B), S20+ SM-G985F 5G (SM-G986B), S20 Ultra 5G (SM-G988B) models !
++ N20U (SM-N985F) (SM-N986B) 5G models !
 
-
-Changelog 20231205
-• Fix object, shadow and reflection eraser in Gallery
-
-
-Changelog 20231204
-• Fix object eraser in Gallery
-
-
-Changelog 20231203
-• Add clocktransition animation
+# OneUI 4.1
+This ROM is made for
++ N10 5G (SM-N970F/1N) , N10+ (SM-N975F/N)  , N10+ 5G (SM-N976B/N) models ! 
++ S10E (SM-G970F/N) , S10 (SM-G973F/N) , S10+ (SM-G975F/N)  , S10 5G (SM-G977B/N) models ! 
 
 
-Changelog 20231202
-• Fix camera-features
+ Stock ROM Features
+
+● Stock Kernel
+● Disabling Samsung crap and encryption
+● Knox and FOTA removed!
+● Fonts Pack (many more extra fonts)
+● Build.prop tweaks for better battery and performance
+● Support wifi calling and volte
+● Enable extra toggles like: capture screen , volte...
+● Many CSC features enabled like: call recording, network speedmeter,receive MMS without mobile data on,and many more...
+● Enabled dual for all apps
+● Enable applock into advanced features
+
+● Patched Knox apps
+✅ Auto Blocker
+✅ Galaxy Wearable (Gear Manager) 
+✅ Samsung Cloud (FMM, Enhanced data protection*)
+✅ Samsung Flow
+✅ Samsung Health
+✅ Samsung Health Monitor
+✅ Secure Folder 
+✅ Secure Wi-Fi
+✅ Smart View 
+✅ Private Share
+❌ Samsung Pass
+❌ Samsung Wallet (Pay)
+
+● Enable google discover into tw launcher
+● Unlimited Samsung theme trials
+● Enable Unlimited storage in Google Photos application
+● Full date display on lock screen, AOD, Weather widget, Clock widget, Quick settings panel.
+● Enabled screenshots in secured screens
+● Added Back2Kill
+● Changing animations to 0.85x
+● Removing useless options in Settings
+● Adding logo in Settings 
+● Reverted PIN without confirmation (OK button) feature to pre-OneUI 6.0 logic: allow on 4+ digit PIN instead of 6+
+
+● Added Font size and style quick panel toggle
+● Added Outdoor mode quick panel toggle
+● Added Edge Lighting Style quick panel toggle
+● Added GPU Watch quick panel toggle
+● Added Permission usage quick panel toggle
+● Added Developer options quick panel toggle
+● Added Allow 360 rotations quick panel toggle
+● Added Phone settings quick panel toggle
+● Added Reboot recovery quick panel toogle
+● Added Screen of time quick panel toogle
+● Added Refresh rate quick panel toggle (change between 60Hz,96Hz,120Hz)
+
+VN-ROM Control Features
+(Mods link is private and paid.)
+
+Statusbar 
+Added full control for statusbar ,notification panel and lockscreen icons (Move and Show/hide ) 
+Added Onfly change from Dual to Single StatusBar
+Added Analog clock on statusbar 
+Added Custom clock animation on statusbar
+Added Date on statusbar
+Added 3minit battery on statusbar ( HomeScreen, LockScreen, QickPanel )
+Added Circular battery on statusbar( HomeScreen, LockScreen, QickPanel )
+Added Temp battery on statusbar ( HomeScreen, QickPanel )
+Added battery bar on statusbar
+Added Network traffic on statusbar ( HomeScreen, LockScreen, QickPanel )
+Added Custom carrier label on statusbar ( HomeScreen, LockScreen, QickPanel )
+Added Custom text on statusbar
+Added Weather temperature on statusbar
+Added Weather icon on statusbar
+Added Weather location on statusbar
+Added Weather status on statusbar
+Added wifi icon chooser on statusbar
+Added Signal icon chooser on statusbar
+Added Alarm icon chooser on statusbar
+Added Bluetooth icon chooser on statusbar
+Added GPS icon chooser on statusbar
+Added Sound icon chooser on statusbar
+Added NFC icon chooser on statusbar
+Added Hostpot icon chooser on statusbar
+Added Data saver icon chooser on statusbar
+Added Power saver icon chooser on statusbar
+Added Custom stock battery icon
+Added Status Bar  and lockscreen Stock Views icon colors 
+Added Virtual buttons on statusbar
+Added Option to use LTE mobile data icon instead 4G
+Added Option statusbar icon margins
+- Added Background option for status bar
+- Added Decoration background analog clock status bar and navigation bar
+Added Custom background color on statusbar
+●
+Qick panel and Notification
+Added analog clock on notification panel
+Added quick panel clock and date text size and font options
+Added quick panel clock and date text color options
+
+Added quick panel buttons color options
+Custom Toggle  options
+Added Toggle custom background
+Added Toggles  color options
+Added Toggle text font options 
+Added quick panel page indicators colors 
+Added Open Qick Panel Directly
+Added Show Quick button Grid Menu
+-Added The Number of quick Toggle
+
+Added  Devices,Media and Brightness options
+Added  Brightness slider progress colors
+Added  Brightness detail color options
+Added Devices and Media button color
+Devices and Media text color options
+Added Devices and Media text size and font options
+
+Notifications Settings
+Added 20+ Color Notifications
+Added Notification background and colors
+Added GIF animation in  Notifications
+Added Expand Single Notifications
+Added Ongoing Notifications Removable
+
+Added background and color when swipe down
+Added matrix background when swipe down
+Added quicklaunch on notification panel
+Added device info on notification panel
+Added ram swap info on notification panel
+Add display and customize data usage
+Added Carrier Panel TextView (Up to 3 texts visible in the Carrier in panel: Carrier, custom text, next alarm.)
+
+●
+Touchwiz
+Customizations for Touchwiz launcher
+Added custom Double tap home gesture
+Added Scroll animation
+Added  Animation scale
+Added 360 degree screen rotation
+Added Screen Off TimeOut
+Added  Increase touchscreen sensitivity
+Added Full screen mode
+●
+Navigationbar
+Added Analog Clock in Navibar
+Added Navigation bar custom background and colors 
+Added Navigation Bar Buttons colors
+Added RAM View Left/Right
+Added Virtual button in Navbar
+Added Gesture on navigation bar
+Added custom text at navigation bar
+●
+Lockscreen
+Added Next alarm on lockscreen
+Added Allow quick reply on lockscreen
+Added Selection to turn on rotation at lock screen
+Added options to use fingerprint, biometric locks after phone
+Added Custom Fingerprint Effect
+Added Changing Text Custom
+Added weather on lock screen
+ ●
+Phone Settings
+Added contact name and number options
+Caller Background Settings
+Added Blur Effect
+Added Matrix effect
+Added Custom Background
+Buttons on call screen settings
+Icon color and position
+Contact Photo style select
+Full Screen Photo
+Contact Photo size
+Contact Photo position
+Contact name position
+Stroke corners
+Post call delay
+Answering a call
+Best photo quality
+And more...
+●
+Extended power menu
+Added Power menu custom background
+Added matrix background 
+Added Custom power menu option 
++ Added Power menu custom blur with intensity
++ Added blur effect visibility in the power menu and quick settings panel
++ Added Power menu style
++ Added Power menu icon size
++ Added Power menu icon color
++ Added Power menu custom icon background
++ Added 51 Power menu icon background styles
++ Added Power menu icon background color
++ Added Power menu custom icon background image
++ Added Power menu icon background Image scale
+●
+Customize buttons
++ Added Long press back to kill
++ Added Long Press On Recent button Action
++ Added Press On Recent button Action
++ Added  Volume button skip tracks
+●
+Advance settings
++ Added Charging animation mods
+Disable Common Software
+- Disable Edge Panel
+- Disable Bixby and voice
+- Wipe dalvik-cache 
+
+Special thanks and credit goes to:
+@Vladimir_White_Black - for help 
+@Grouxho for GrxSettings
+
+Donate for Dev: NguyenXuanHoa
