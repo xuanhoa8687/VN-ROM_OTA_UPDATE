@@ -1,4 +1,4 @@
-![OnUpdateLogo]([https://raw.githubusercontent.com/ShaDisNX255/OnUpdate/a52q/img/icon.png](https://github.com/xuanhoa8687/VN-ROM_OTA_UPDATE/blob/main/ic_launcher.png))
+![OnUpdateLogo](https://raw.githubusercontent.com/ShaDisNX255/OnUpdate/a52q/img/icon.png](https://github.com/xuanhoa8687/VN-ROM_OTA_UPDATE/blob/main/ic_launcher.png)](https://github.com/xuanhoa8687/VN-ROM_OTA_UPDATE/blob/main/ic_launcher.png)
 
 =============
 
