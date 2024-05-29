@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>VN-ROM</RomName>
-  <VersionName>V16.1 Update</VersionName>
+  <VersionName>20240501 Update</VersionName>
   <BuildNumber type="integer">20240501</BuildNumber>
   <DownloadURL>https://downloads.simon1511.de/s/YsQQoS7FHfsKKPo/download/OTA-20240201-a52q.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
