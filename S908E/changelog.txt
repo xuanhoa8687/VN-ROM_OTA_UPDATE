@@ -72,10 +72,11 @@ This ROM is made for
 ● Added Screen of time quick panel toogle
 ● Added Refresh rate quick panel toggle (change between 60Hz,96Hz,120Hz)
 
-VN-ROM Control Features
+# VN-ROM Control Features
 (Mods link is private and paid.)
 
-Statusbar 
+● Statusbar
+
 Added full control for statusbar ,notification panel and lockscreen icons (Move and Show/hide ) 
 Added Onfly change from Dual to Single StatusBar
 Added Analog clock on statusbar 
@@ -107,15 +108,15 @@ Added Status Bar  and lockscreen Stock Views icon colors
 Added Virtual buttons on statusbar
 Added Option to use LTE mobile data icon instead 4G
 Added Option statusbar icon margins
-- Added Background option for status bar
-- Added Decoration background analog clock status bar and navigation bar
+Added Background option for status bar
+Added Decoration background analog clock status bar and navigation bar
 Added Custom background color on statusbar
-●
-Qick panel and Notification
+
+● Qick panel and Notification
+
 Added analog clock on notification panel
 Added quick panel clock and date text size and font options
 Added quick panel clock and date text color options
-
 Added quick panel buttons color options
 Custom Toggle  options
 Added Toggle custom background
@@ -124,22 +125,19 @@ Added Toggle text font options
 Added quick panel page indicators colors 
 Added Open Qick Panel Directly
 Added Show Quick button Grid Menu
--Added The Number of quick Toggle
-
+Added The Number of quick Toggle
 Added  Devices,Media and Brightness options
 Added  Brightness slider progress colors
 Added  Brightness detail color options
 Added Devices and Media button color
 Devices and Media text color options
 Added Devices and Media text size and font options
-
 Notifications Settings
 Added 20+ Color Notifications
 Added Notification background and colors
 Added GIF animation in  Notifications
 Added Expand Single Notifications
 Added Ongoing Notifications Removable
-
 Added background and color when swipe down
 Added matrix background when swipe down
 Added quicklaunch on notification panel
@@ -148,8 +146,8 @@ Added ram swap info on notification panel
 Add display and customize data usage
 Added Carrier Panel TextView (Up to 3 texts visible in the Carrier in panel: Carrier, custom text, next alarm.)
 
-●
-Touchwiz
+● Touchwiz
+
 Customizations for Touchwiz launcher
 Added custom Double tap home gesture
 Added Scroll animation
@@ -158,8 +156,9 @@ Added 360 degree screen rotation
 Added Screen Off TimeOut
 Added  Increase touchscreen sensitivity
 Added Full screen mode
-●
-Navigationbar
+
+● Navigationbar
+
 Added Analog Clock in Navibar
 Added Navigation bar custom background and colors 
 Added Navigation Bar Buttons colors
@@ -167,8 +166,9 @@ Added RAM View Left/Right
 Added Virtual button in Navbar
 Added Gesture on navigation bar
 Added custom text at navigation bar
-●
-Lockscreen
+
+● Lockscreen
+
 Added Next alarm on lockscreen
 Added Allow quick reply on lockscreen
 Added Selection to turn on rotation at lock screen
@@ -176,8 +176,9 @@ Added options to use fingerprint, biometric locks after phone
 Added Custom Fingerprint Effect
 Added Changing Text Custom
 Added weather on lock screen
- ●
-Phone Settings
+
+● Phone Settings
+
 Added contact name and number options
 Caller Background Settings
 Added Blur Effect
@@ -195,34 +196,35 @@ Post call delay
 Answering a call
 Best photo quality
 And more...
-●
-Extended power menu
+
+● Extended power menu
+
 Added Power menu custom background
 Added matrix background 
 Added Custom power menu option 
-+ Added Power menu custom blur with intensity
-+ Added blur effect visibility in the power menu and quick settings panel
-+ Added Power menu style
-+ Added Power menu icon size
-+ Added Power menu icon color
-+ Added Power menu custom icon background
-+ Added 51 Power menu icon background styles
-+ Added Power menu icon background color
-+ Added Power menu custom icon background image
-+ Added Power menu icon background Image scale
-●
-Customize buttons
-+ Added Long press back to kill
-+ Added Long Press On Recent button Action
-+ Added Press On Recent button Action
-+ Added  Volume button skip tracks
-●
-Advance settings
-+ Added Charging animation mods
+Added Power menu custom blur with intensity
+Added blur effect visibility in the power menu and quick settings panel
+Added Power menu style
+Added Power menu icon size
+Added Power menu icon color
+Added Power menu custom icon background
+Added 51 Power menu icon background styles
+Added Power menu icon background color
+Added Power menu custom icon background image
+Added Power menu icon background Image scale
+
+● Customize buttons 
+
+Added Long press back to kill
+Added Long Press On Recent button Action
+Added Press On Recent button Action
+Added  Volume button skip tracks
+
+● Advance settings
+
+Added Charging animation mods
 Disable Common Software
-- Disable Edge Panel
-- Disable Bixby and voice
-- Wipe dalvik-cache 
+Wipe dalvik-cache 
 
 Special thanks and credit goes to:
 @Vladimir_White_Black - for help 
