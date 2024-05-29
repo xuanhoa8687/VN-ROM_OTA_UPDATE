@@ -2,7 +2,7 @@
 
 =============
 
-# NcX_OnUpdate
+# VN-ROM OTA_UPDATE
 
 This repo contains the manifest and changelog files for the different supported variants
 Currently, the following devices are supported:
