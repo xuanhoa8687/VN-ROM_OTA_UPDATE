@@ -5,5 +5,3 @@ Changelog S22xE
 
 • Enable Photo Ambient Wallpaper on Galaxy S24 
 • Add Animated Weather Effects to any Wallpaper
-
-Donate for Dev: NguyenXuanHoa
