@@ -1,7 +1,7 @@
 Welcome to the VN-ROM OneUI 6.1
 Re-Custom your Galaxy!
 
-Changelog S22U S908E
+Changelog S22x S90xE
 • Testing OTA update
 
 Donate for Dev: NguyenXuanHoa
