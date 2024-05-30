@@ -1,54 +1,7 @@
 Welcome to the VN-ROM OneUI 6.1
 Re-Custom your Galaxy!
 
-Stock ROM Features
-
-● Stock Kernel
-● Disabling Samsung crap and encryption
-● Knox and FOTA removed!
-● Fonts Pack (many more extra fonts)
-● Build.prop tweaks for better battery and performance
-● Support wifi calling and volte
-● Enable extra toggles like: capture screen , volte...
-● Many CSC features enabled like: call recording, network speedmeter,receive MMS without mobile data on,and many more...
-● Enabled dual for all apps
-● Enable applock into advanced features
-
-● Patched Knox apps
-✅ Auto Blocker
-✅ Galaxy Wearable (Gear Manager) 
-✅ Samsung Cloud (FMM, Enhanced data protection*)
-✅ Samsung Flow
-✅ Samsung Health
-✅ Samsung Health Monitor
-✅ Secure Folder 
-✅ Secure Wi-Fi
-✅ Smart View 
-✅ Private Share
-❌ Samsung Pass
-❌ Samsung Wallet (Pay)
-
-● Enable google discover into tw launcher
-● Unlimited Samsung theme trials
-● Enable Unlimited storage in Google Photos application
-● Full date display on lock screen, AOD, Weather widget, Clock widget, Quick settings panel.
-● Enabled screenshots in secured screens
-● Added Back2Kill
-● Changing animations to 0.85x
-● Removing useless options in Settings
-● Adding logo in Settings 
-● Reverted PIN without confirmation (OK button) feature to pre-OneUI 6.0 logic: allow on 4+ digit PIN instead of 6+
-
-● Added Font size and style quick panel toggle
-● Added Outdoor mode quick panel toggle
-● Added Edge Lighting Style quick panel toggle
-● Added GPU Watch quick panel toggle
-● Added Permission usage quick panel toggle
-● Added Developer options quick panel toggle
-● Added Allow 360 rotations quick panel toggle
-● Added Phone settings quick panel toggle
-● Added Reboot recovery quick panel toogle
-● Added Screen of time quick panel toogle
-● Added Refresh rate quick panel toggle (change between 60Hz,96Hz,120Hz)
+Changelog S22U S908E
+• Testing OTA update
 
 Donate for Dev: NguyenXuanHoa
