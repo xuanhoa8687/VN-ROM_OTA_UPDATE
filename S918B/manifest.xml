@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OnOTAInfo>
+  <RomName>VN-ROM</RomName>
+  <VersionName>20240601 S918B</VersionName>
+  <BuildNumber type="integer">20240601</BuildNumber>
+  <DownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S918B/ota.zip</DownloadURL>
+  <AndroidVer>14</AndroidVer>
+  <OneUIVer>6.1</OneUIVer>
+  <CheckMD5>70ada4fd6b53ca7da0473bafc4e697c9</CheckMD5>
+  <FileSize type="long">8045128</FileSize>
+  <WebsiteURL>https://sites.google.com/view/vnromgalaxy/trang-ch%E1%BB%A7</WebsiteURL>
+  <ChangelogHeader>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/banner.png</ChangelogHeader>
+  <ChangelogURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S918B/changelog.txt</ChangelogURL>
+</OnOTAInfo>
