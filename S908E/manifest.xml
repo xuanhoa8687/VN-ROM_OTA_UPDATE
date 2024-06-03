@@ -2,12 +2,12 @@
 <OnOTAInfo>
   <RomName>VN-ROM</RomName>
   <VersionName>24.2 Update</VersionName>
-  <BuildNumber type="integer">20240530</BuildNumber>
-  <DownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_Wallpaper.zip</DownloadURL>
+  <BuildNumber type="integer">20240603</BuildNumber>
+  <DownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_WallpaperS.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>One UI 6.1</OneUIVer>
-  <CheckMD5>d7b216c49b8801c5d74ce5793fcf1e60</CheckMD5>
-  <FileSize type="long">9756192</FileSize>
+  <CheckMD5>5743edd61817c86be2c8f6405c767d2a</CheckMD5>
+  <FileSize type="long">9756447</FileSize>
   <WebsiteURL>https://sites.google.com/view/vnromgalaxy/trang-ch%E1%BB%A7</WebsiteURL>
   <ChangelogHeader>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/banner.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/changelog.txt</ChangelogURL>
