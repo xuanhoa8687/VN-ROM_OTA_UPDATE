@@ -1,6 +1,6 @@
 Welcome to the VN-ROM
 
-Changelog S22xE
+Changelog test link onedrive
 
 • Enable Photo Ambient Wallpaper on Galaxy S24 
 • Add Animated Weather Effects to any Wallpaper
