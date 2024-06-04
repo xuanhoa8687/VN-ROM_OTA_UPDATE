@@ -1,7 +1,6 @@
-Welcome to the VN-ROM OneUI 6.1
-Re-Custom your Galaxy!
+Welcome to the VN-ROM
 
-Changelog S23x
+Changelog S23x Test Update
 
 • Enable Photo Ambient Wallpaper on Galaxy S24 
 • Add Animated Weather Effects to any Wallpaper
