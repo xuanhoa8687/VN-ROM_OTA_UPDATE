@@ -2,5 +2,5 @@ Welcome to the VN-ROM
 
 Changelog S23x Test Update
 
-• Enable Photo Ambient Wallpaper on Galaxy S24 
-• Add Animated Weather Effects to any Wallpaper
+• Fake lock Bootloader
+• Fix VNeID
