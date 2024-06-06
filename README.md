@@ -5,7 +5,7 @@
 
 <p align="center">=======================================</p>
 
-<p align="center"> # VN-ROM OTA_UPDATE</p>
+<h1 align="center">VN-ROM OTA_UPDATE</h1>
 
 This repo contains the manifest and changelog files for the different supported variants
 Currently, the following devices are supported:
