@@ -1,8 +1,9 @@
 
-![VN-Logo](https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/ic_launcher.png)
-
+<h1 align="center">
+  <img loading="lazy" src="ic_launcher.png"/>
+</h1>
 =======================================
-<img loading="lazy" src="ic_launcher.png"/>
+
 # VN-ROM OTA_UPDATE
 This repo contains the manifest and changelog files for the different supported variants
 Currently, the following devices are supported:
