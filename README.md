@@ -3,9 +3,9 @@
   <img loading="lazy" src="ic_launcher.png"/>
 </h1>
 
-=======================================
+<p align="center">=======================================</p>
 
-# VN-ROM OTA_UPDATE
+<p align="center"> # VN-ROM OTA_UPDATE</p>
 
 This repo contains the manifest and changelog files for the different supported variants
 Currently, the following devices are supported:
