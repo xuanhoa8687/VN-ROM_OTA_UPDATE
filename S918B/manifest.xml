@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>VN-ROM</RomName>
-  <VersionName>16x S23x Test Update</VersionName>
+  <VersionName>16x Update</VersionName>
   <BuildNumber type="integer">20240606</BuildNumber>
-  <DownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_WallpaperS.zip</DownloadURL>
+  <DownloadURL>https://github.com/xuanhoa8687/VN-ROM_OTA_UPDATE/releases/download/S908E/VN-Updates2316.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>One UI 6.1</OneUIVer>
   <CheckMD5>0f2dceb98ffabf4cdaf4ce598a4b2dbc</CheckMD5>
