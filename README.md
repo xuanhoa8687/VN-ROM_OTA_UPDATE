@@ -1,5 +1,5 @@
 <p align="center">
-![VN-Logo](https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/ic_launcher.png?token=GHSAT0AAAAAACSEEISNW2QOHN3VECBDWQV6ZSXY7UA)
+![VN-Logo]https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/ic_launcher.png
 
 =======================================
 </p>
