@@ -6,9 +6,9 @@
 <p align="center">=======================================</p>
 
 <h1 align="center">VN-ROM OTA_UPDATE</h1>
-
 <p align="center">This repo contains the manifest and changelog files for the different supported variants
 Currently, the following devices are supported:</p> 
+
 #
 - Samsung Galaxy S21x
 - Samsung Galaxy S22x
