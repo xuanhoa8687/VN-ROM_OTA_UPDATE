@@ -12,3 +12,9 @@ Currently, the following devices are supported:
 - Samsung Galaxy S23x
 - Samsung Galaxy S24x
 </p>
+
+<p align="center">
+  <a href="https://t.me/vnromchannel">🌐 Chanel</a>
+  •
+  <a href="https://t.me/vnromsupporten">💬 Telegram</a>
+</p>
