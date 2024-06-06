@@ -9,12 +9,12 @@ This repo contains the manifest and changelog files for the different supported 
 Currently, the following devices are supported:
 </p>
 #
-<p align="center">
+<h1 align="center">
 - Samsung Galaxy S21x
 - Samsung Galaxy S22x
 - Samsung Galaxy S23x
 - Samsung Galaxy S24x
-</p>
+</h1>
 
 <p align="center">
   <a href="https://t.me/vnromchannel">🌐 Chanel</a>
