@@ -6,18 +6,18 @@
 
   <RomName>Vulcan ROM (One UI 6)</RomName>
   <RomDescription>A one UI 6 port for Samsung Note 20 series.</RomDescription>
-  <RomFileSize type="long">994325</RomFileSize>
+  <RomFileSize type="long">9756447</RomFileSize>
   <RomVersionName>1.1.00</RomVersionName>
   <RomBuildNumber type="integer">20240105</RomBuildNumber>
-  <RomDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/Rom.zip</RomDownloadURL>
-  <RomCheckMD5>dbd2f2452ca746891e4922c05abead10</RomCheckMD5>
+  <RomDownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_WallpaperS.zip</RomDownloadURL>
+  <RomCheckMD5>5743edd61817c86be2c8f6405c767d2a</RomCheckMD5>
   <RomChangelogHeader>https://github.com/Luphaestus/ui6-updates/blob/dev/header.png?raw=true</RomChangelogHeader>
   <RomChangelogURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/changelog.txt</RomChangelogURL>
   <RomFeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/romFeatures</RomFeatureURL>
 
   <appName>Vulcan Updates</appName>
   <appDescription>ROM and tweaks update app.</appDescription>
-  <appFileSize type="long">5871167</appFileSize>
+  <appFileSize type="long">9756447</appFileSize>
   <appVersionName>2.0.00</appVersionName>
   <appBuildNumber type="integer">20240101</appBuildNumber>
   <appDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/app.zip</appDownloadURL>
