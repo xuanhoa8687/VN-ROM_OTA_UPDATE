@@ -11,5 +11,5 @@
   <WebsiteURL>https://sites.google.com/view/vnromgalaxy/trang-ch%E1%BB%A7</WebsiteURL>
   <ChangelogHeader>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/banner.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/G998B/changelog.txt</ChangelogURL>
-  <Feature>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/romFeatures</Feature>
+  <FeatureUrl>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/romFeatures</FeatureUrl>
 </OnOTAInfo>
