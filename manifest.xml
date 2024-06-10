@@ -8,7 +8,7 @@
   <RomDescription>A one UI 6 port for Samsung Note 20 series.</RomDescription>
   <RomFileSize type="long">9756447</RomFileSize>
   <RomVersionName>1.1.00</RomVersionName>
-  <RomBuildNumber type="integer">20240105</RomBuildNumber>
+  <RomBuildNumber type="integer">20240201</RomBuildNumber>
   <RomDownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_WallpaperS.zip</RomDownloadURL>
   <RomCheckMD5>5743edd61817c86be2c8f6405c767d2a</RomCheckMD5>
   <RomChangelogHeader>https://github.com/Luphaestus/ui6-updates/blob/dev/header.png?raw=true</RomChangelogHeader>
@@ -19,7 +19,7 @@
   <appDescription>ROM and tweaks update app.</appDescription>
   <appFileSize type="long">9756447</appFileSize>
   <appVersionName>2.0.00</appVersionName>
-  <appBuildNumber type="integer">20240101</appBuildNumber>
+  <appBuildNumber type="integer">20240201</appBuildNumber>
   <appDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/app.zip</appDownloadURL>
   <appCheckMD5>6a0db6976482e524bccbe8b6b5d3597e</appCheckMD5>
   <appChangelogHeader>https://github.com/BotchedRPR/ui6-updates/blob/dev/header.png?raw=true</appChangelogHeader>
