@@ -8,7 +8,7 @@
   <RomDescription>A one UI 6 port for Samsung Note 20 series.</RomDescription>
   <RomFileSize type="long">994325</RomFileSize>
   <RomVersionName>1.1.00</RomVersionName>
-  <RomBuildNumber type="integer">20240201</RomBuildNumber>
+  <RomBuildNumber type="integer">20240105</RomBuildNumber>
   <RomDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/Rom.zip</RomDownloadURL>
   <RomCheckMD5>dbd2f2452ca746891e4922c05abead10</RomCheckMD5>
   <RomChangelogHeader>https://github.com/Luphaestus/ui6-updates/blob/dev/header.png?raw=true</RomChangelogHeader>
@@ -19,7 +19,7 @@
   <appDescription>ROM and tweaks update app.</appDescription>
   <appFileSize type="long">5871167</appFileSize>
   <appVersionName>2.0.00</appVersionName>
-  <appBuildNumber type="integer">20240201</appBuildNumber>
+  <appBuildNumber type="integer">20240101</appBuildNumber>
   <appDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/app.zip</appDownloadURL>
   <appCheckMD5>6a0db6976482e524bccbe8b6b5d3597e</appCheckMD5>
   <appChangelogHeader>https://github.com/BotchedRPR/ui6-updates/blob/dev/header.png?raw=true</appChangelogHeader>
