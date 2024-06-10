@@ -4,8 +4,8 @@
   <OneUIVer>6.0</OneUIVer>
   <WebsiteURL>https://xdaforums.com/t/experimental-exynos-port-oneui-6-0-stable-for-galaxy-note20-5g-4g.4641404</WebsiteURL>
 
-  <RomName>Vulcan ROM (One UI 6)</RomName>
-  <RomDescription>A one UI 6 port for Samsung Note 20 series.</RomDescription>
+  <RomName>VN-ROM (One UI 6.1)</RomName>
+
   <RomFileSize type="long">9756447</RomFileSize>
   <RomVersionName>1.1.00</RomVersionName>
   <RomBuildNumber type="integer">20240610</RomBuildNumber>
