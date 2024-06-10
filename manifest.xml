@@ -15,4 +15,11 @@
   <RomChangelogURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/changelog.txt</RomChangelogURL>
   <RomFeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/romFeatures</RomFeatureURL>
 
+  <VersionName>24.1 Update</VersionName>
+  <BuildNumber type="integer">20240604</BuildNumber>
+  <DownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_WallpaperS.zip</DownloadURL>
+  <CheckMD5>5743edd61817c86be2c8f6405c767d2a</CheckMD5>
+  <FileSize type="long">9756447</FileSize>
+  <ChangelogHeader>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/banner.png</ChangelogHeader>
+  <ChangelogURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/changelog.txt</ChangelogURL>
 </OnOTAInfo>
