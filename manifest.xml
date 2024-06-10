@@ -1,0 +1,87 @@
+<?xml version="1" encoding="UTF-8"?>
+<OnOTAInfo>
+  <AndroidVer>14</AndroidVer>
+  <OneUIVer>6.0</OneUIVer>
+  <WebsiteURL>https://xdaforums.com/t/experimental-exynos-port-oneui-6-0-stable-for-galaxy-note20-5g-4g.4641404</WebsiteURL>
+
+  <RomName>Vulcan ROM (One UI 6)</RomName>
+  <RomDescription>A one UI 6 port for Samsung Note 20 series.</RomDescription>
+  <RomFileSize type="long">994325</RomFileSize>
+  <RomVersionName>1.1.00</RomVersionName>
+  <RomBuildNumber type="integer">20240326</RomBuildNumber>
+  <RomDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/Rom.zip</RomDownloadURL>
+  <RomCheckMD5>dbd2f2452ca746891e4922c05abead10</RomCheckMD5>
+  <RomChangelogHeader>https://github.com/Luphaestus/ui6-updates/blob/dev/header.png?raw=true</RomChangelogHeader>
+  <RomChangelogURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/changelog.txt</RomChangelogURL>
+  <RomFeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/romFeatures</RomFeatureURL>
+
+  
+  <BootName>Colourful Boot Animations</BootName>
+  <BootDescription>Changes boot animations to colourful ones.</BootDescription>
+  <BootFileSize type="long">4407733</BootFileSize>
+  <BootVersionName>1.0.00</BootVersionName>
+  <BootBuildNumber type="integer">20240224</BootBuildNumber>
+  <BootDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/colourfullbootanim.zip</BootDownloadURL>
+  <BootCheckMD5>4a0db8f58aa2544a3c0cb9c87d3b2ec0</BootCheckMD5>
+  <BootChangelogHeader>https://github.com/Luphaestus/ui6-updates/blob/dev/boot/OIG3.jpg?raw=true</BootChangelogHeader>
+  <BootChangelogURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/boot/bootlog.txt</BootChangelogURL>
+  <BootFeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/boot/bootFeatures</BootFeatureURL>
+
+  <BootRevertName></BootRevertName>
+  <BootRevertDescription></BootRevertDescription>
+  <BootRevertFileSize type="long">4611524</BootRevertFileSize>
+  <BootRevertVersionName>1.00.00</BootRevertVersionName>
+  <BootRevertBuildNumber type="integer">20240224</BootRevertBuildNumber>
+  <BootRevertDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/bootrevert.zip</BootRevertDownloadURL>
+  <BootRevertCheckMD5>8c5aeda10802620992c9faf4d6bcbf66</BootRevertCheckMD5>
+  <BootRevertChangelogHeader>https://github.com/Luphaestus/ui6-updates/blob/dev/boot/OIG3.jpg?raw=true</BootRevertChangelogHeader>
+  <BootRevertChangelogURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/boot/bootlog.txt</BootRevertChangelogURL>
+  <BootRevertFeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/boot/bootFeaturesRevert</BootRevertFeatureURL>
+  
+  <EKName>Extreme Kernel</EKName>
+  <EKDescription>Stock kernel with tweaks.</EKDescription>
+  <EKFileSize type="long">16692935</EKFileSize>
+  <EKVersionName>0.8.0</EKVersionName>
+  <EKBuildNumber type="integer">20240224</EKBuildNumber>
+  <EKDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/ExtremeKernel.zip</EKDownloadURL>
+  <EKCheckMD5>242e04be2e8a3b205c090c43e5293c00</EKCheckMD5>
+  <EKChangelogHeader>https://github.com/BotchedRPR/ui6-updates/blob/dev/header.png?raw=true</EKChangelogHeader>
+  <EKChangelogURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/kernel/ek/ek</EKChangelogURL>
+  <EKFeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/kernel/ek/ekFeatures</EKFeatureURL>
+
+  <SUName>Kernel SU - H-K-Systems</SUName>
+  <SUDescription>Kernel SU with tweaks.</SUDescription>
+  <SUFileSize type="long">23022440</SUFileSize>
+  <SUVersionName>1.0.10</SUVersionName>
+  <SUBuildNumber type="integer">20240227</SUBuildNumber>
+  <SUDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/KernelSU.zip</SUDownloadURL>
+  <SUCheckMD5>77ba3ff6e057935812bf9195e0f09ff6</SUCheckMD5>
+  <SUChangelogHeader>https://github.com/BotchedRPR/ui6-updates/blob/dev/header.png?raw=true</SUChangelogHeader>
+  <SUChangelogURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/kernel/hk/su</SUChangelogURL>
+  <SUFeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/kernel/hk/ksuFeatures</SUFeatureURL>
+
+  <appName>Vulcan Updates</appName>
+  <appDescription>ROM and tweaks update app.</appDescription>
+  <appFileSize type="long">5871167</appFileSize>
+  <appVersionName>2.0.00</appVersionName>
+  <appBuildNumber type="integer">20240325</appBuildNumber>
+  <appDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/app.zip</appDownloadURL>
+  <appCheckMD5>6a0db6976482e524bccbe8b6b5d3597e</appCheckMD5>
+  <appChangelogHeader>https://github.com/BotchedRPR/ui6-updates/blob/dev/header.png?raw=true</appChangelogHeader>
+  <appChangelogURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/app/applog</appChangelogURL>
+  <appFeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/app/appfeatures</appFeatureURL>
+
+
+  <KSUName>Kernel SU - ExtremeXT</KSUName>
+  <KSUDescription>Kernel SU with tweaks.</KSUDescription>
+  <KSUFileSize type="long">23047039</KSUFileSize>
+  <KSUVersionName>0.8.0</KSUVersionName>
+  <KSUBuildNumber type="integer">20240224</KSUBuildNumber>
+  <KSUDownloadURL>https://github.com/Luphaestus/ui6-updates/raw/dev/Files/ExtremeKernel_UNOFFICIAL_KSU_c2s_24-02-2024_14-24-00.zip</KSUDownloadURL>
+  <KSUCheckMD5>3627aef7536d2b2a82ff3273dac6a8f1</KSUCheckMD5>
+  <KSUChangelogHeader>https://github.com/BotchedRPR/ui6-updates/blob/dev/header.png?raw=true</KSUChangelogHeader>
+  <KSUChangelogURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/kernel/eksu/eksu</KSUChangelogURL>
+  <KSUFeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/kernel/eksu/eksuFeatures</KSUFeatureURL>
+
+
+</OnOTAInfo>
