@@ -5,9 +5,9 @@
   <WebsiteURL>https://xdaforums.com/t/experimental-exynos-port-oneui-6-0-stable-for-galaxy-note20-5g-4g.4641404</WebsiteURL>
 
   <RomName>VN-ROM (One UI 6.1)</RomName>
-
+  <RomDescription>By Nguyễn Xuân Hòa</RomDescription>
   <RomFileSize type="long">9756447</RomFileSize>
-  <RomVersionName>1.1.00</RomVersionName>
+  <RomVersionName>25.0</RomVersionName>
   <RomBuildNumber type="integer">20240610</RomBuildNumber>
   <RomDownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_WallpaperS.zip</RomDownloadURL>
   <RomCheckMD5>5743edd61817c86be2c8f6405c767d2a</RomCheckMD5>
