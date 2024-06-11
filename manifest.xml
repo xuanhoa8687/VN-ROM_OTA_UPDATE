@@ -1,16 +1,14 @@
 <?xml version="1" encoding="UTF-8"?>
 <OnOTAInfo>
-  <AndroidVer>14</AndroidVer>
-  <OneUIVer>6.1</OneUIVer>
-  <WebsiteURL>https://xdaforums.com/t/experimental-exynos-port-oneui-6-0-stable-for-galaxy-note20-5g-4g.4641404</WebsiteURL>
-
-  <Name>VN-ROM (One UI 6.1)</Name>
-  <VersionName>25 Update</VersionName>
+  <RomName>VN-ROM</RomName>
+  <VersionName>26 Update</VersionName>
   <BuildNumber type="integer">20240609</BuildNumber>
   <DownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_WallpaperS.zip</DownloadURL>
-
+  <AndroidVer>14</AndroidVer>
+  <OneUIVer>One UI 6.1</OneUIVer>
   <CheckMD5>5743edd61817c86be2c8f6405c767d2a</CheckMD5>
   <FileSize type="long">9756447</FileSize>
+  <WebsiteURL>https://sites.google.com/view/vnromgalaxy/trang-ch%E1%BB%A7</WebsiteURL>
   <ChangelogHeader>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/banner.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/changelog.txt</ChangelogURL>
   <FeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/romFeatures</FeatureURL>
