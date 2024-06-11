@@ -2,7 +2,7 @@
 <OnOTAInfo>
   <RomName>VN-ROM</RomName>
   <VersionName>17 Update</VersionName>
-  <BuildNumber type="integer">20240601</BuildNumber>
+  <BuildNumber type="integer">20240501</BuildNumber>
   <DownloadURL>https://github.com/xuanhoa8687/VN-ROM_OTA_UPDATE/releases/download/S908E/VN-Updates2316.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>One UI 6.1</OneUIVer>
