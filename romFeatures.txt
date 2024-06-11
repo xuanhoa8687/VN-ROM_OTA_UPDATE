@@ -1,0 +1,20 @@
+`Features
+
+• Knox Patched
+• Enable applock
+• Unlimited Samsung theme trials
+• Prop Tweaks                
+• Enable Unlimited storage in Google Photos application
+• Full date display on lock screen, AOD, Weather widget, Clock widget, Quick settings panel.
+• Enabled screenshots in secured screens
+• Added Back2Kill
+• Reverted PIN without confirmation (OK button) feature to pre-OneUI 6.0 logic: allow on 4+ digit PIN instead of 6+
+• Enabled dual for all apps
+• Many CSC features enabled
+• Fake locked bootloader
+
+`Fixes
+
+• VNeID
+
+
