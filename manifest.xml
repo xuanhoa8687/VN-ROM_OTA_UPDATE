@@ -4,15 +4,17 @@
   <OneUIVer>6.1</OneUIVer>
   <WebsiteURL>https://xdaforums.com/t/experimental-exynos-port-oneui-6-0-stable-for-galaxy-note20-5g-4g.4641404</WebsiteURL>
 
-  <RomName>VN-ROM (One UI 6.1)</RomName>
-  <RomDescription>By Nguyễn Xuân Hòa</RomDescription>
-  <RomFileSize type="long">9756447</RomFileSize>
-  <RomVersionName>25.0</RomVersionName>
-  <RomBuildNumber type="integer">20240610</RomBuildNumber>
-  <RomDownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_WallpaperS.zip</RomDownloadURL>
-  <RomCheckMD5>5743edd61817c86be2c8f6405c767d2a</RomCheckMD5>
-  <RomChangelogHeader>https://github.com/Luphaestus/ui6-updates/blob/dev/header.png?raw=true</RomChangelogHeader>
-  <RomChangelogURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/changelog.txt</RomChangelogURL>
-  <RomFeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/romFeatures</RomFeatureURL>
+  <Name>VN-ROM (One UI 6.1)</Name>
+  <Description>By Nguyễn Xuân Hòa</Description>
+
+  <VersionName>24.1 Update</VersionName>
+  <BuildNumber type="integer">20240604</BuildNumber>
+  <DownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_WallpaperS.zip</DownloadURL>
+
+  <CheckMD5>5743edd61817c86be2c8f6405c767d2a</CheckMD5>
+  <FileSize type="long">9756447</FileSize>
+  <ChangelogHeader>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/banner.png</ChangelogHeader>
+  <ChangelogURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/changelog.txt</ChangelogURL>
+  <FeatureURL>https://raw.githubusercontent.com/Luphaestus/ui6-updates/dev/rom/romFeatures</FeatureURL>
 
 </OnOTAInfo>
