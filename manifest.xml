@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>VN-ROM</RomName>
-  <VersionName>25 Test</VersionName>
+  <VersionName>25_EXEA</VersionName>
   <BuildNumber type="integer">20240609</BuildNumber>
   <DownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_WallpaperS.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
