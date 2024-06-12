@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>VN-ROM</RomName>
-  <VersionName>25_EXEA</VersionName>
+  <VersionName>Mod s22 snap</VersionName>
   <BuildNumber type="integer">20240609</BuildNumber>
-  <DownloadURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/S908E/VN-Mods_S24_Photo_ambient_WallpaperS.zip</DownloadURL>
+  <DownloadURL>https://1013.filemail.com/api/file/get?filekey=3wm4v-Uu7DuVpqC7JPn2UlfiKrGV3pHRKHtWTw3boHorEB5sE_rrf8vWHNebjuLt02JlOLHUeVidYAnmCx-HpsTw9eWvPPgHtlxP_xvC&pk_vid=63bce6b2d4a11f04171816417685d9db</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>One UI 6.1</OneUIVer>
-  <CheckMD5>5743edd61817c86be2c8f6405c767d2a</CheckMD5>
-  <FileSize type="long">9756447</FileSize>
+  <CheckMD5>e1c2eb0c3b23d34b1605632a92543c4d</CheckMD5>
+  <FileSize type="long">252205848</FileSize>
   <WebsiteURL>https://sites.google.com/view/vnromgalaxy/trang-ch%E1%BB%A7</WebsiteURL>
   <ChangelogHeader>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen/banner.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/xuanhoa8687/VN-ROM_OTA_UPDATE/fourteen//romFeatures.txt</ChangelogURL>
