@@ -5,8 +5,8 @@
   "MANUFACTURER": "Google",
   "BRAND": "google",
   "MODEL": "Pixel 8 Pro",
-  "ID": "AP31.240517.022",
-  "FINGERPRINT": "google/husky_beta/husky:15/AP31.240517.022/11948202:user/release-keys",
-  "SECURITY_PATCH": "2024-06-05",
+  "ID": "AP31.240617.009",
+  "FINGERPRINT": "google/husky_beta/husky:15/AP31.240617.009/12094726:user/release-keys",
+  "SECURITY_PATCH": "2024-07-05",
   "DEVICE_INITIAL_SDK_INT": "24"
 }
